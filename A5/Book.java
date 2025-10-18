@@ -5,7 +5,7 @@ public class Book {
 	private String publisher;
 	private String edition;
 
-	public void String(String name, String auth, String publisher, String edition) {
+	public void Book(String name, String auth, String publisher, String edition) {
 		this.name = name;
 		this.auth = auth;
 		this.publisher = publisher;
